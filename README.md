@@ -39,7 +39,7 @@ The Amazon Sales Analysis Dashboard is an interactive Power BI dashboard designe
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="AmazonSalesDashboard.png" width="900">
+  <img src="AmazonSalesDashboard.PNG" width="900">
 </p>
 
 ## 🚀 Outcome
